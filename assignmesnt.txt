@@ -1,0 +1,11 @@
+Q. 1 What is seo and explain the benifits of seo ? 
+
+solution - seo its "stands search ingine optimization" which is the process to optimzed a website for better performace.
+and ranked  on search engine.seo target unpaid  organic search and traffic rather than paid traffic, and incarse 
+quantity and quality of website visitors. this is powerfull startagy for incarse your business. 
+
+In web development we can use many tags for seo optimization. they tag are called semantic tags.
+<title. , <meta> tags are most important for seo , and we also use <article> , <header> , <footer> , <nav> etc 
+tags for incarse website seo . 
+
+
